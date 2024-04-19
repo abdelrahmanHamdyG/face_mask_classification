@@ -2,3 +2,4 @@ Pillow
 streamlit
 tensorflow_intel
 tf_nightly_intel
+tensorflow
