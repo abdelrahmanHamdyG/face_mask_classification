@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import tensorflow as tf
-import numpy as np
+
 
 
 def preprocess_image(image):
