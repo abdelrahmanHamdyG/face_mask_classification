@@ -1,4 +1,0 @@
-Pillow==10.3.0
-streamlit==1.24.0
-tensorflow_intel==2.16.1
-tf_nightly_intel==2.17.0.dev20240417
