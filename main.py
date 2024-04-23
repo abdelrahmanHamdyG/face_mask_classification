@@ -22,7 +22,7 @@ def predict(image):
 
 def main():
     st.title("Image Classifier")
-    st.write("Upload an image and I'll predict its content.")
+    st.write("Upload a person image and I'll predict weather he wears a mask or not.")
 
     uploaded_image = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
