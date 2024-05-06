@@ -10,7 +10,7 @@ This project implements a face mask classifier using transfer learning with Mobi
 
 ## Usage
 
-To use the face mask classifier, simply visit the following link:
+To use the face mask classifier, simply visit the following link and wait a minute till the app is cooked ^_^ :
 
 [Face Mask Classifier](https://facemaskclassification-7bjikcpanptrexks9zisxx.streamlit.app/)
 
